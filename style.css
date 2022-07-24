@@ -1,3 +1,23 @@
 body {
-    background: blue;
+    background: lightblue;
+}
+h1 {
+    font-family: arial;
+    }
+h2 {
+    font-family: arial;
+}
+button {
+    cursor: pointer;
+    background-color: lightgreen;
+    padding: 15px 15px;
+    transition-duration: 2s;
+    border: none;
+}
+button:hover {
+    background-color: green;
+}
+p #food{
+    background: yellow;
+    border-style:ridge
 }
