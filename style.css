@@ -17,7 +17,10 @@ button {
 button:hover {
     background-color: green;
 }
-p #food{
+#food{
     background: yellow;
-    border-style:ridge
+    border-style:ridge;
+    width: 150px;
+    height: 25px;
+    padding: 15px;
 }
